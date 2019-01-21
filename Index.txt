@@ -1,8 +1,8 @@
 ## Index of source code examples:
 
-\Acquire From Scanner And Decode
-\Barcodes From PDF
-\Barcodes From TIFF
+\Acquire image From Scanner And Decode
+\barcode Image Preprocessing Filters
+\Barcode Reading Profiles
 \Batch Read Barcodes To CSV
 \Batch Read From Files
 \Decode Australian Post Code
@@ -58,21 +58,15 @@
 \Decode USPS Sack Label
 \Decode USPS Tray Label
 \Export Results to XML, CSV, TXT
-\General Example
-\GUI Example
-\Image Preprocessing Filters
-\Interrupt Processing
-\Parallel Decoding
-\Profiles
-\Read Checkboxes
-\Read From Live Video Cam
-\Read From Live Video Cam (simplified)
-\Read From Live Video Cam (WPF)
+\GUI Example for barcode reading
+\Interrupt barcode Processing
+\Parallel barcode Decoding
+\Read barcode From Live Video Cam
+\Read barcode From Live Video Cam (simplified)
+\Read barcode From Live Video Cam (WPF)
+\read Barcodes From PDF
+\read Barcodes From TIFF
+\Read Checkboxes from image
 \Read vCard from QR Code
-\Split Document By Found Barcode
-\WPF UI Example
-\_Web API
+\Split PDF Document By Found Barcode
 \Batch Read Barcodes To CSV\BarcodeFiles
-\_Web API\Read Barcode From Uploaded File
-\_Web API\Read Barcode From URL
-\_Web API\Read Barcode From URL Asynchronously
