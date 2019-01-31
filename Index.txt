@@ -61,7 +61,7 @@
 \General Barcode Reading Example
 \GUI Example For Barcode Reading
 \Interrupt Barcode Processing
-\Parallel barcode Decoding
+\Parallel Barcode Decoding
 \Read Barcode From Live Video Cam
 \Read Barcode From Live Video Cam (simplified)
 \Read Barcode From Live Video Cam (WPF)
