@@ -58,6 +58,7 @@
 \Decode USPS Sack Label
 \Decode USPS Tray Label
 \Export Results to XML, CSV, TXT
+\General Barcode Reading Example
 \GUI Example for barcode reading
 \Interrupt barcode Processing
 \Parallel barcode Decoding
@@ -69,4 +70,5 @@
 \Read Checkboxes from image
 \Read vCard from QR Code
 \Split PDF Document By Found Barcode
+\WPF UI Barcode Reading Example
 \Batch Read Barcodes To CSV\BarcodeFiles
