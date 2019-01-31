@@ -1,7 +1,7 @@
 ## Index of source code examples:
 
-\Acquire image From Scanner And Decode
-\barcode Image Preprocessing Filters
+\Acquire Image From Scanner And Decode
+\Barcode Image Preprocessing Filters
 \Barcode Reading Profiles
 \Batch Read Barcodes To CSV
 \Batch Read From Files
@@ -59,15 +59,15 @@
 \Decode USPS Tray Label
 \Export Results to XML, CSV, TXT
 \General Barcode Reading Example
-\GUI Example for barcode reading
-\Interrupt barcode Processing
+\GUI Example For Barcode Reading
+\Interrupt Barcode Processing
 \Parallel barcode Decoding
-\Read barcode From Live Video Cam
-\Read barcode From Live Video Cam (simplified)
-\Read barcode From Live Video Cam (WPF)
-\read Barcodes From PDF
-\read Barcodes From TIFF
-\Read Checkboxes from image
+\Read Barcode From Live Video Cam
+\Read Barcode From Live Video Cam (simplified)
+\Read Barcode From Live Video Cam (WPF)
+\Read Barcodes From PDF
+\Read Barcodes From TIFF
+\Read Checkboxes From Image
 \Read vCard from QR Code
 \Split PDF Document By Found Barcode
 \WPF UI Barcode Reading Example
