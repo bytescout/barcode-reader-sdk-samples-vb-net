@@ -62,6 +62,7 @@
 \Export Results to XML, CSV, TXT
 \General Barcode Reading Example
 \GUI Example For Barcode Reading
+\Inspect Decoded Barcodes
 \Interrupt Barcode Processing
 \Parallel Barcode Decoding
 \Read Barcode From Live Video Cam
