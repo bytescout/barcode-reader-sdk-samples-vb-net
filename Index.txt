@@ -60,6 +60,7 @@
 \Decode USPS Tray Label
 \Decoding barcodes from PDF by pages
 \Export Results to XML, CSV, TXT
+\Filters to downscale Image
 \General Barcode Reading Example
 \GUI Example For Barcode Reading
 \Inspect Decoded Barcodes
