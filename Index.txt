@@ -84,5 +84,6 @@
 \Read vCard from QR Code
 \Reduce CPU Usage
 \Split PDF Document By Found Barcode
+\Two-pass decoding
 \WPF UI Barcode Reading Example
 \Batch Read Barcodes To CSV\BarcodeFiles
